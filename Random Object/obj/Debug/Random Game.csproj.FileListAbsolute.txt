@@ -1,0 +1,10 @@
+C:\Users\VAIO\source\repos\Random Game\obj\Debug\Random Game.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\Random Game\obj\Debug\Random_Game.Form1.resources
+C:\Users\VAIO\source\repos\Random Game\obj\Debug\Random Game.csproj.GenerateResource.cache
+C:\Users\VAIO\source\repos\Random Game\obj\Debug\Random Game.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\Random Game\bin\Debug\Random Location Object.exe.config
+C:\Users\VAIO\source\repos\Random Game\bin\Debug\Random Location Object.exe
+C:\Users\VAIO\source\repos\Random Game\bin\Debug\Random Location Object.pdb
+C:\Users\VAIO\source\repos\Random Game\obj\Debug\Random_Object.Properties.Resources.resources
+C:\Users\VAIO\source\repos\Random Game\obj\Debug\Random Location Object.exe
+C:\Users\VAIO\source\repos\Random Game\obj\Debug\Random Location Object.pdb
